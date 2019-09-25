@@ -1,0 +1,10 @@
+C:\Users\k0tst\source\repos\Smart floor\Smart floor\bin\Debug\Smart floor.exe.config
+C:\Users\k0tst\source\repos\Smart floor\Smart floor\bin\Debug\Smart floor.exe
+C:\Users\k0tst\source\repos\Smart floor\Smart floor\bin\Debug\Smart floor.pdb
+C:\Users\k0tst\source\repos\Smart floor\Smart floor\obj\Debug\Smart floor.csprojAssemblyReference.cache
+C:\Users\k0tst\source\repos\Smart floor\Smart floor\obj\Debug\Smart_floor.Properties.Resources.resources
+C:\Users\k0tst\source\repos\Smart floor\Smart floor\obj\Debug\Smart floor.csproj.GenerateResource.cache
+C:\Users\k0tst\source\repos\Smart floor\Smart floor\obj\Debug\Smart floor.exe
+C:\Users\k0tst\source\repos\Smart floor\Smart floor\obj\Debug\Smart floor.pdb
+C:\Users\k0tst\source\repos\Smart floor\Smart floor\obj\Debug\Smart_floor.Main.resources
+C:\Users\k0tst\source\repos\Smart floor\Smart floor\obj\Debug\Smart_floor.UHome.resources
